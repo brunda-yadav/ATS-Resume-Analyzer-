@@ -1,0 +1,4 @@
+GEMINI_API_KEY=your_key_here
+GROQ_API_KEY=your_key_here
+ATS_SECRET=your_custom_secret
+POPPLER_PATH=C:/Users/<your_path>/poppler-25.07.0/Library/bin
