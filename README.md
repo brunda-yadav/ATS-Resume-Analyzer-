@@ -3,7 +3,9 @@ Created an AI-driven tool to analyze resumes using Python, Streamlit, and Google
 # ATS Resume Analyzer
 ---
 [ats.py code](https://github.com/brunda-yadav/ATS-Resume-Analyzer-/blob/main/ats.py)
+---
 [nedded](https://github.com/brunda-yadav/ATS-Resume-Analyzer-/blob/main/needed.txt)
+---
 [Results](https://github.com/brunda-yadav/ATS-Resume-Analyzer-/blob/main/Response.png)
 
 ---
