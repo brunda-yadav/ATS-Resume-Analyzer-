@@ -8,10 +8,9 @@ Features
 - Gives improvement suggestions
 ---
   How to Run
-1. Clone the repo  
-   `git clone https://github.com/brunda-yadav/ATS-Resume-Analyzer-.git`
-2. Install dependencies  
+
+1. Install dependencies  
    `pip install -r requirements.txt`
-3. Start the app  
+2. Start the app  
    `streamlit run app.py`
 
