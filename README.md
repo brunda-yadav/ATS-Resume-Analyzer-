@@ -1,6 +1,9 @@
 # ATS-Resume-Analyzer-
 Created an AI-driven tool to analyze resumes using Python, Streamlit, and Google Gemini. Handled PDF uploads with pdf2image &amp; Poppler and deployed the app globally via Streamlit Cloud.
 ---
+Architecture 
+[Architecture ](https://github.com/brunda-yadav/rescuebecon/blob/main/code.cpp](https://github.com/brunda-yadav/ai-resume-screening-agent/blob/main/Architecture%20Diagram%20.png)
+---
 Overview
 - The AI Resume ScreeningAgent is a Streamlit-based tool that analyzes and ranks resumes using a provided Job Description (JD).
 - It extracts text from PDF resumes, uses an LLM to evaluate skills, experience, role fit, and generates an ATS-style match score.
